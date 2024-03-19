@@ -1,9 +1,8 @@
 # Pig-game
 Objective:
 The objective of the Pig game is to reach a specific number of points, usually 100.
-
-Equipment:
 <ul>
+Equipment:
 <li>2 standard six-sided dice
 <li>Score sheet or scoring system
 </ul>
