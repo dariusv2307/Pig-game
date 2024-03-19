@@ -3,8 +3,10 @@ Objective:
 The objective of the Pig game is to reach a specific number of points, usually 100.
 
 Equipment:
-2 standard six-sided dice
-Score sheet or scoring system
+<ul>
+<li>2 standard six-sided dice
+<li>Score sheet or scoring system
+</ul>
 Basic Rules:
 The game begins with a player rolling the dice. This player becomes the "active player."
 The active player rolls the dice and adds the points on the faces of the rolled dice to their current score.
